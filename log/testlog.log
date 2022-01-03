@@ -1,0 +1,198 @@
+2021-12-22 00:09:12,380 - Internet Banking Automation -INFO - URL Is Opened
+2021-12-22 00:09:26,624 - Internet Banking Automation -INFO - SubmitLogin Btn Clicked
+2021-12-22 00:15:05,193 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:15:17,397 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2021-12-22 00:15:22,736 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:15:22,785 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2021-12-22 00:18:22,208 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:18:36,876 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2021-12-22 00:18:43,004 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:18:43,051 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2021-12-22 00:18:45,183 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:25:20,035 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:25:37,728 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2021-12-22 00:25:43,388 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:25:43,440 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2021-12-22 00:25:45,312 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:25:47,954 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2021-12-22 00:25:51,527 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2021-12-22 00:27:10,319 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:27:13,639 - E-commerce Automation Project -INFO - women page is opened
+2021-12-22 00:27:16,365 - E-commerce Automation Project -INFO - Dresses page is opened
+2021-12-22 00:27:17,963 - E-commerce Automation Project -INFO - Tshirt page is opened
+2021-12-22 00:27:27,864 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:27:28,004 - E-commerce Automation Project -INFO - title is present
+2021-12-22 00:27:28,038 - E-commerce Automation Project -INFO - sign button is present
+2021-12-22 00:27:28,075 - E-commerce Automation Project -INFO - header logo is present
+2021-12-22 00:27:28,104 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2021-12-22 00:27:28,135 - E-commerce Automation Project -INFO - Twitter Logo is present
+2021-12-22 00:27:35,839 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:27:38,835 - E-commerce Automation Project -INFO - WomenPage Opened
+2021-12-22 00:27:40,754 - E-commerce Automation Project -INFO - Clicked Dresses
+2021-12-22 00:27:42,572 - E-commerce Automation Project -INFO - Clicked SummerDresses
+2021-12-22 00:27:44,669 - E-commerce Automation Project -WARN - Sorting feature is Not Working
+2021-12-22 00:27:46,990 - E-commerce Automation Project -INFO - WomenPage Opened
+2021-12-22 00:27:48,895 - E-commerce Automation Project -INFO - Clicked Dresses
+2021-12-22 00:27:50,257 - E-commerce Automation Project -INFO - Clicked SummerDresses
+2021-12-22 00:27:50,306 - E-commerce Automation Project -INFO - Clicked on size S
+2021-12-22 00:27:52,324 - E-commerce Automation Project -WARN - Filters feature is Not Working
+2021-12-22 00:28:00,455 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:28:04,327 - E-commerce Automation Project -WARN - Product Price is not in order
+2021-12-22 00:28:06,833 - E-commerce Automation Project -WARN - Product Name is not in order
+2021-12-22 00:28:14,301 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-22 00:28:27,765 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2021-12-22 00:28:33,118 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:28:33,165 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2021-12-22 00:28:34,473 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-22 00:28:35,956 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2021-12-22 00:28:39,842 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2021-12-31 22:47:53,479 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-31 22:47:56,890 - E-commerce Automation Project -INFO - women page is opened
+2021-12-31 22:47:59,506 - E-commerce Automation Project -INFO - Dresses page is opened
+2021-12-31 22:48:01,677 - E-commerce Automation Project -INFO - Tshirt page is opened
+2021-12-31 22:48:12,740 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-31 22:48:12,898 - E-commerce Automation Project -INFO - title is present
+2021-12-31 22:48:12,972 - E-commerce Automation Project -INFO - sign button is present
+2021-12-31 22:48:13,028 - E-commerce Automation Project -INFO - header logo is present
+2021-12-31 22:48:13,078 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2021-12-31 22:48:13,124 - E-commerce Automation Project -INFO - Twitter Logo is present
+2021-12-31 22:48:19,961 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-31 22:48:21,250 - E-commerce Automation Project -INFO - WomenPage Opened
+2021-12-31 22:48:23,700 - E-commerce Automation Project -INFO - Clicked Dresses
+2021-12-31 22:48:24,899 - E-commerce Automation Project -INFO - Clicked SummerDresses
+2021-12-31 22:48:27,455 - E-commerce Automation Project -INFO - Sorting feature is Working
+2021-12-31 22:48:29,256 - E-commerce Automation Project -INFO - WomenPage Opened
+2021-12-31 22:48:31,138 - E-commerce Automation Project -INFO - Clicked Dresses
+2021-12-31 22:48:32,613 - E-commerce Automation Project -INFO - Clicked SummerDresses
+2021-12-31 22:48:32,717 - E-commerce Automation Project -INFO - Clicked on size S
+2021-12-31 22:48:34,743 - E-commerce Automation Project -WARN - Filters feature is Not Working
+2021-12-31 22:48:42,116 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-31 22:48:46,356 - E-commerce Automation Project -WARN - Product Price is not in order
+2021-12-31 22:48:48,738 - E-commerce Automation Project -WARN - Product Name is not in order
+2021-12-31 22:48:55,490 - E-commerce Automation Project -INFO - URL Is Opened
+2021-12-31 22:49:08,371 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2021-12-31 22:49:13,273 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-31 22:49:13,409 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2021-12-31 22:49:15,284 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2021-12-31 22:49:16,407 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2021-12-31 22:49:20,455 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-02 13:50:51,720 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 13:50:54,627 - E-commerce Automation Project -INFO - women page is opened
+2022-01-02 13:50:56,493 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-02 13:50:57,923 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-02 13:51:06,196 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 13:51:06,339 - E-commerce Automation Project -INFO - title is present
+2022-01-02 13:51:06,391 - E-commerce Automation Project -INFO - sign button is present
+2022-01-02 13:51:06,425 - E-commerce Automation Project -INFO - header logo is present
+2022-01-02 13:51:06,459 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-02 13:51:06,480 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-02 13:51:12,835 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 13:51:23,696 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-02 13:51:28,583 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 13:51:28,656 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-02 13:51:30,086 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 13:51:31,069 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-02 13:51:33,715 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-02 15:49:37,809 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:49:40,653 - E-commerce Automation Project -INFO - women page is opened
+2022-01-02 15:49:42,811 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-02 15:49:44,258 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-02 15:49:52,972 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:49:53,142 - E-commerce Automation Project -INFO - title is present
+2022-01-02 15:49:53,212 - E-commerce Automation Project -INFO - sign button is present
+2022-01-02 15:49:53,264 - E-commerce Automation Project -INFO - header logo is present
+2022-01-02 15:49:53,305 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-02 15:49:53,342 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-02 15:50:00,193 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:50:10,954 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-02 15:50:15,998 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 15:50:16,083 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-02 15:50:17,457 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 15:50:18,547 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-02 15:50:21,153 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-02 15:50:47,399 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:50:50,320 - E-commerce Automation Project -INFO - women page is opened
+2022-01-02 15:50:52,138 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-02 15:50:53,693 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-02 15:51:02,117 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:51:02,255 - E-commerce Automation Project -INFO - title is present
+2022-01-02 15:51:02,303 - E-commerce Automation Project -INFO - sign button is present
+2022-01-02 15:51:02,338 - E-commerce Automation Project -INFO - header logo is present
+2022-01-02 15:51:02,389 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-02 15:51:02,420 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-02 15:51:09,811 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:51:23,561 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-02 15:51:28,593 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 15:51:28,677 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-02 15:51:29,967 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 15:51:31,114 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-02 15:51:33,442 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-02 15:59:05,585 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:59:08,606 - E-commerce Automation Project -INFO - women page is opened
+2022-01-02 15:59:10,689 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-02 15:59:12,455 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-02 15:59:22,847 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:59:22,998 - E-commerce Automation Project -INFO - title is present
+2022-01-02 15:59:23,073 - E-commerce Automation Project -INFO - sign button is present
+2022-01-02 15:59:23,125 - E-commerce Automation Project -INFO - header logo is present
+2022-01-02 15:59:23,171 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-02 15:59:23,214 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-02 15:59:29,748 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-02 15:59:42,574 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-02 15:59:48,622 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 15:59:48,765 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-02 15:59:50,307 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-02 15:59:51,543 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-02 15:59:54,183 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-03 11:55:35,025 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 11:55:38,060 - E-commerce Automation Project -INFO - women page is opened
+2022-01-03 11:55:40,246 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-03 11:55:41,667 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-03 11:55:50,906 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 11:55:51,056 - E-commerce Automation Project -INFO - title is present
+2022-01-03 11:55:51,098 - E-commerce Automation Project -INFO - sign button is present
+2022-01-03 11:55:51,135 - E-commerce Automation Project -INFO - header logo is present
+2022-01-03 11:55:51,162 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-03 11:55:51,191 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-03 11:55:58,581 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 11:56:10,073 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-03 11:56:15,199 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-03 11:56:15,251 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-03 11:56:16,605 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-03 11:56:17,538 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-03 11:56:19,952 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-03 12:07:04,729 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:15:46,071 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:15:48,850 - E-commerce Automation Project -INFO - women page is opened
+2022-01-03 12:15:50,863 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-03 12:15:52,309 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-03 12:16:00,538 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:16:00,683 - E-commerce Automation Project -INFO - title is present
+2022-01-03 12:16:00,709 - E-commerce Automation Project -INFO - sign button is present
+2022-01-03 12:16:00,752 - E-commerce Automation Project -INFO - header logo is present
+2022-01-03 12:16:00,773 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-03 12:16:00,805 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-03 12:16:07,348 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:16:18,670 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-03 12:16:23,596 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-03 12:16:23,644 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-03 12:16:26,832 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-03 12:16:28,538 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-03 12:16:32,337 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked
+2022-01-03 12:37:35,003 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:37:37,880 - E-commerce Automation Project -INFO - women page is opened
+2022-01-03 12:37:39,519 - E-commerce Automation Project -INFO - Dresses page is opened
+2022-01-03 12:37:41,895 - E-commerce Automation Project -INFO - Tshirt page is opened
+2022-01-03 12:37:50,188 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:37:50,333 - E-commerce Automation Project -INFO - title is present
+2022-01-03 12:37:50,362 - E-commerce Automation Project -INFO - sign button is present
+2022-01-03 12:37:50,402 - E-commerce Automation Project -INFO - header logo is present
+2022-01-03 12:37:50,423 - E-commerce Automation Project -INFO - NewsLetter Text is present
+2022-01-03 12:37:50,447 - E-commerce Automation Project -INFO - Twitter Logo is present
+2022-01-03 12:37:57,426 - E-commerce Automation Project -INFO - URL Is Opened
+2022-01-03 12:38:12,843 - E-commerce Automation Project -INFO - SubmitLogin Btn Clicked
+2022-01-03 12:38:18,024 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-03 12:38:18,101 - E-commerce Automation Project -INFO - Terms Of Service CheckBox is Selected
+2022-01-03 12:38:19,430 - E-commerce Automation Project -INFO - Proceed To Checkout Btn Clicked
+2022-01-03 12:38:20,839 - E-commerce Automation Project -INFO - Pay By Bank Wire Clicked
+2022-01-03 12:38:24,346 - E-commerce Automation Project -INFO - Order Confirmed Btn Clicked

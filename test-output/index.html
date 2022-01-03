@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Automation_Practice_Website" class="navigator-link">
+              <span class="suite-name border-failed">Automation Practice Website</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Automation_Practice_Website" class="navigator-link ">
+                    <span>C:\Users\Kiran\eclipse-workspace\AutomationPracticeWebsiteJenkins\TestNG.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Automation_Practice_Website" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Automation_Practice_Website" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Automation_Practice_Website" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Automation_Practice_Website" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Automation_Practice_Website" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Automation_Practice_Website" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">14 methods, 3 failed,   11 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Automation_Practice_Website" class="hide-methods failed suite-Automation_Practice_Website"> (hide)</a> <!-- hide-methods failed suite-Automation_Practice_Website -->
+                      <a href="#" panel-name="suite-Automation_Practice_Website" class="show-methods failed suite-Automation_Practice_Website"> (show)</a> <!-- show-methods failed suite-Automation_Practice_Website -->
+                    </span>
+                    <div class="method-list-content failed suite-Automation_Practice_Website">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerifyDefaultSortingResults" class="method navigator-link" hash-for-method="verifyDefaultSortingResultsProductName">verifyDefaultSortingResultsProductName</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerifyDefaultSortingResults" class="method navigator-link" hash-for-method="verifyDefaultSortingResultsProductPrice">verifyDefaultSortingResultsProductPrice</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.AutomateWomenDressesSummerDressesListingPage" class="method navigator-link" hash-for-method="verifyFilters">verifyFilters</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Automation_Practice_Website -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Automation_Practice_Website" class="hide-methods passed suite-Automation_Practice_Website"> (hide)</a> <!-- hide-methods passed suite-Automation_Practice_Website -->
+                      <a href="#" panel-name="suite-Automation_Practice_Website" class="show-methods passed suite-Automation_Practice_Website"> (show)</a> <!-- show-methods passed suite-Automation_Practice_Website -->
+                    </span>
+                    <div class="method-list-content passed suite-Automation_Practice_Website">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.CheckoutJourney" class="method navigator-link" hash-for-method="checkoutJourney">checkoutJourney</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerificationOfHeaderAndFooter" class="method navigator-link" hash-for-method="homePageHeaderLogoVerification">homePageHeaderLogoVerification</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerificationOfHeaderAndFooter" class="method navigator-link" hash-for-method="homePageNewsLetterTextVerification">homePageNewsLetterTextVerification</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerificationOfHeaderAndFooter" class="method navigator-link" hash-for-method="homePageSignInBtnVerification">homePageSignInBtnVerification</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerificationOfHeaderAndFooter" class="method navigator-link" hash-for-method="homePageTitleVerification">homePageTitleVerification</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.VerificationOfHeaderAndFooter" class="method navigator-link" hash-for-method="homePageTwitterLogoVerification">homePageTwitterLogoVerification</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.NavigateToMultiplePages" class="method navigator-link" hash-for-method="navigateToDressesPage">navigateToDressesPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.NavigateToMultiplePages" class="method navigator-link" hash-for-method="navigateToHomePage">navigateToHomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.NavigateToMultiplePages" class="method navigator-link" hash-for-method="navigateToTshirtPage">navigateToTshirtPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.NavigateToMultiplePages" class="method navigator-link" hash-for-method="navigateToWomenPage">navigateToWomenPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Practice_Website" title="com.apw.testCases.AutomateWomenDressesSummerDressesListingPage" class="method navigator-link" hash-for-method="verifySorting">verifySorting</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Automation_Practice_Website -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Automation_Practice_Website" class="panel Automation_Practice_Website">
+          <div class="suite-Automation_Practice_Website-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.apw.testCases.VerifyDefaultSortingResults</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyDefaultSortingResultsProductName">
+                  </a> <!-- verifyDefaultSortingResultsProductName -->
+                  <span class="method-name">verifyDefaultSortingResultsProductName</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.apw.testCases.VerifyDefaultSortingResults.verifyDefaultSortingResultsProductName(VerifyDefaultSortingResults.java:97)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyDefaultSortingResultsProductPrice">
+                  </a> <!-- verifyDefaultSortingResultsProductPrice -->
+                  <span class="method-name">verifyDefaultSortingResultsProductPrice</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.apw.testCases.VerifyDefaultSortingResults.verifyDefaultSortingResultsProductPrice(VerifyDefaultSortingResults.java:56)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Practice_Website-class-failed -->
+          <div class="suite-Automation_Practice_Website-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.apw.testCases.AutomateWomenDressesSummerDressesListingPage</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyFilters">
+                  </a> <!-- verifyFilters -->
+                  <span class="method-name">verifyFilters</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.apw.testCases.AutomateWomenDressesSummerDressesListingPage.verifyFilters(AutomateWomenDressesSummerDressesListingPage.java:65)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Practice_Website-class-failed -->
+          <div class="suite-Automation_Practice_Website-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.apw.testCases.CheckoutJourney</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkoutJourney">
+                  </a> <!-- checkoutJourney -->
+                  <span class="method-name">checkoutJourney</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Practice_Website-class-passed -->
+          <div class="suite-Automation_Practice_Website-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.apw.testCases.NavigateToMultiplePages</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="navigateToDressesPage">
+                  </a> <!-- navigateToDressesPage -->
+                  <span class="method-name">navigateToDressesPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="navigateToHomePage">
+                  </a> <!-- navigateToHomePage -->
+                  <span class="method-name">navigateToHomePage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="navigateToTshirtPage">
+                  </a> <!-- navigateToTshirtPage -->
+                  <span class="method-name">navigateToTshirtPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="navigateToWomenPage">
+                  </a> <!-- navigateToWomenPage -->
+                  <span class="method-name">navigateToWomenPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Practice_Website-class-passed -->
+          <div class="suite-Automation_Practice_Website-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.apw.testCases.VerificationOfHeaderAndFooter</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="homePageHeaderLogoVerification">
+                  </a> <!-- homePageHeaderLogoVerification -->
+                  <span class="method-name">homePageHeaderLogoVerification</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homePageNewsLetterTextVerification">
+                  </a> <!-- homePageNewsLetterTextVerification -->
+                  <span class="method-name">homePageNewsLetterTextVerification</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homePageSignInBtnVerification">
+                  </a> <!-- homePageSignInBtnVerification -->
+                  <span class="method-name">homePageSignInBtnVerification</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homePageTitleVerification">
+                  </a> <!-- homePageTitleVerification -->
+                  <span class="method-name">homePageTitleVerification</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homePageTwitterLogoVerification">
+                  </a> <!-- homePageTwitterLogoVerification -->
+                  <span class="method-name">homePageTwitterLogoVerification</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Practice_Website-class-passed -->
+          <div class="suite-Automation_Practice_Website-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.apw.testCases.AutomateWomenDressesSummerDressesListingPage</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySorting">
+                  </a> <!-- verifySorting -->
+                  <span class="method-name">verifySorting</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Practice_Website-class-passed -->
+        </div> <!-- panel Automation_Practice_Website -->
+        <div panel-name="test-xml-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Kiran\eclipse-workspace\AutomationPracticeWebsiteJenkins\TestNG.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Automation Practice Website&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.apw.utilities.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Automation Test&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.apw.testCases.NavigateToMultiplePages&quot;/&gt;
+      &lt;class name=&quot;com.apw.testCases.VerificationOfHeaderAndFooter&quot;/&gt;
+      &lt;class name=&quot;com.apw.testCases.AutomateWomenDressesSummerDressesListingPage&quot;/&gt;
+      &lt;class name=&quot;com.apw.testCases.VerifyDefaultSortingResults&quot;/&gt;
+      &lt;class name=&quot;com.apw.testCases.CheckoutJourney&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Automation Test --&gt;
+&lt;/suite&gt; &lt;!-- Automation Practice Website --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Automation Practice Website</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Automation Test (5 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Automation Practice Website</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Automation Practice Website</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Automation_Practice_Website');
+function tableData_Automation_Practice_Website() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(14);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'checkoutJourney')
+data.setCell(0, 2, 'com.apw.testCases.CheckoutJourney')
+data.setCell(0, 3, 27808);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifyFilters')
+data.setCell(1, 2, 'com.apw.testCases.AutomateWomenDressesSummerDressesListingPage')
+data.setCell(1, 3, 8220);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifySorting')
+data.setCell(2, 2, 'com.apw.testCases.AutomateWomenDressesSummerDressesListingPage')
+data.setCell(2, 3, 7338);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'verifyDefaultSortingResultsProductPrice')
+data.setCell(3, 2, 'com.apw.testCases.VerifyDefaultSortingResults')
+data.setCell(3, 3, 4086);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'navigateToHomePage')
+data.setCell(4, 2, 'com.apw.testCases.NavigateToMultiplePages')
+data.setCell(4, 3, 4022);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'navigateToWomenPage')
+data.setCell(5, 2, 'com.apw.testCases.NavigateToMultiplePages')
+data.setCell(5, 3, 3228);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'navigateToDressesPage')
+data.setCell(6, 2, 'com.apw.testCases.NavigateToMultiplePages')
+data.setCell(6, 3, 2585);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'verifyDefaultSortingResultsProductName')
+data.setCell(7, 2, 'com.apw.testCases.VerifyDefaultSortingResults')
+data.setCell(7, 3, 2377);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'navigateToTshirtPage')
+data.setCell(8, 2, 'com.apw.testCases.NavigateToMultiplePages')
+data.setCell(8, 3, 2169);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'homePageSignInBtnVerification')
+data.setCell(9, 2, 'com.apw.testCases.VerificationOfHeaderAndFooter')
+data.setCell(9, 3, 69);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'homePageHeaderLogoVerification')
+data.setCell(10, 2, 'com.apw.testCases.VerificationOfHeaderAndFooter')
+data.setCell(10, 3, 53);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'homePageNewsLetterTextVerification')
+data.setCell(11, 2, 'com.apw.testCases.VerificationOfHeaderAndFooter')
+data.setCell(11, 3, 48);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'homePageTwitterLogoVerification')
+data.setCell(12, 2, 'com.apw.testCases.VerificationOfHeaderAndFooter')
+data.setCell(12, 3, 43);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'homePageTitleVerification')
+data.setCell(13, 2, 'com.apw.testCases.VerificationOfHeaderAndFooter')
+data.setCell(13, 3, 17);
+window.suiteTableData['Automation_Practice_Website']= { tableData: data, tableDiv: 'times-div-Automation_Practice_Website'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Automation_Practice_Website">
+              </div> <!-- times-div-Automation_Practice_Website -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Automation Practice Website</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Automation_Practice_Website" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.apw.testCases.NavigateToMultiplePages</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">navigateToWomenPage</span>
+                <span class="method-start">8786 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">navigateToDressesPage</span>
+                <span class="method-start">12045 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">navigateToTshirtPage</span>
+                <span class="method-start">14633 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">navigateToHomePage</span>
+                <span class="method-start">16806 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">20831 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.apw.testCases.VerificationOfHeaderAndFooter</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">21078 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">homePageTitleVerification</span>
+                <span class="method-start">28005 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homePageSignInBtnVerification</span>
+                <span class="method-start">28027 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homePageHeaderLogoVerification</span>
+                <span class="method-start">28098 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homePageNewsLetterTextVerification</span>
+                <span class="method-start">28154 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homePageTwitterLogoVerification</span>
+                <span class="method-start">28205 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">28249 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.apw.testCases.AutomateWomenDressesSummerDressesListingPage</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">28416 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verifySorting</span>
+                <span class="method-start">35241 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyFilters</span>
+                <span class="method-start">42582 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">50810 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.apw.testCases.VerifyDefaultSortingResults</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">50991 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyDefaultSortingResultsProductPrice</span>
+                <span class="method-start">57395 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyDefaultSortingResultsProductName</span>
+                <span class="method-start">61485 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">63865 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.apw.testCases.CheckoutJourney</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">64008 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">checkoutJourney</span>
+                <span class="method-start">70778 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">98589 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

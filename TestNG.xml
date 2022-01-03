@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Automation Practice Website">
+
+
+	<listeners>
+		<listener class-name="com.apw.utilities.Reporting" />
+	</listeners>
+
+	<test name="Automation Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.apw.testCases.NavigateToMultiplePages" />
+			<class name="com.apw.testCases.VerificationOfHeaderAndFooter" />
+			<!-- <class name="com.apw.testCases.AutomateWomenDressesSummerDressesListingPage" />
+			<class name="com.apw.testCases.VerifyDefaultSortingResults" /> -->
+			<class name="com.apw.testCases.CheckoutJourney" />
+		</classes>
+	</test>
+</suite>
